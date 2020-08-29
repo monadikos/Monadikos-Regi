@@ -1,0 +1,2 @@
+# Monadikos-Regi
+Proyecto Dekids
